@@ -1,0 +1,1 @@
+Hi Students of FSD SPR 2024! Weekly updates on both Java and Python source code for lectures and labs will be shared here.
